@@ -1,0 +1,17 @@
+Changing the style of the variable <div style={{ backgroundColor:'red'}}></div
+
+in JSx element we use className instead of class because to avoid javascript collison
+
+jsx can easily reference javascript variables in {}=> reference variable
+
+javascript objects can be referenced in the jsx unless we don't use it for printing
+
+
+Component Nesting:-
+  In react application we usually make many different components when we make many different
+
+components. We then nest them or essentially place them in each other to make an actual usable re-act application.
+
+Component Reuseability:-
+We strive to make reusable components or little pieces of code that can be reused several different times inside our app.
+
