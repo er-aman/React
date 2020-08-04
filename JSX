@@ -13,5 +13,5 @@ Component Nesting:-
 components. We then nest them or essentially place them in each other to make an actual usable re-act application.
 
 Component Reuseability:-
-We strive to make reusable components or little pieces of code that can be reused several different times inside our app.
+We strive to make reusable components or little pieces of code that can be reused several different times inside our app
 
